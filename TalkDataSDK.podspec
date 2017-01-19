@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name     = 'TalkDataSDK'
-s.version  = '1.0.0'
+s.version  = '1.0.2'
 s.license= { :type => "MIT", :file => "LICENSE" }
 s.summary  = 'A delightful iOS Analytics framework.'
 s.homepage = 'https://github.com/HzHenghaokeji/TalkDataSDK'
