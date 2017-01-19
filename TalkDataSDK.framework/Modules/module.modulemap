@@ -1,0 +1,6 @@
+framework module TalkDataSDK {
+  umbrella header "TalkDataSDK.h"
+
+  export *
+  module * { export * }
+}
