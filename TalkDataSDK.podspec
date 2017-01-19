@@ -9,6 +9,6 @@ s.source   = { :git => 'https://github.com/HzHenghaokeji/TalkDataSDK.git',  :tag
 s.social_media_url   = 'http://www.henghaojijin.com'
 s.requires_arc = true
 s.ios.deployment_target = '8.0'
-s.source_files = 'TalkDataSDK/Classes/**/*.h'
+s.source_files = '**/*.h'
 end
                                                                                
